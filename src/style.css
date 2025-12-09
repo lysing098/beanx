@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import 'vue3-carousel/dist/carousel.css';
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
